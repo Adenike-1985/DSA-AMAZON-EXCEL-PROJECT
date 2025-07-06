@@ -110,6 +110,3 @@ The analysis was guided by these key business questions:
 
 ---
 
-This project demonstrates the effectiveness of Excel-based data analysis in making informed product decisions within e-commerce platforms like Amazon.
-
-Feel free to fork or download the repository for your own learning and extension!
